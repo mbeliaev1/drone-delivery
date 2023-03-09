@@ -34,6 +34,4 @@ export SUMO_HOME="/usr/share/sumo"
 - tqdm-4.56.2 [tqdm](insterlink)
 - geopy-2.1.0 [geopy](insterlink)
 - qpsolvers-1.5 [qpsolvers](https://pypi.org/project/qpsolvers/)
-## Usage
-
 
